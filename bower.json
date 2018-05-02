@@ -1,0 +1,31 @@
+{
+  "name": "bitcore-lib-veggie",
+  "main": "./bitcore-lib-veggie.min.js",
+  "version": "0.15.3",
+  "homepage": "https://github.com/barneychambers/bitcore-lib-veggie",
+  "authors": [
+    "Dash", "BitPay, Inc."
+  ],
+  "description": "A pure, powerful core for your veggie project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "veggie",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
